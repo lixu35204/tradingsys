@@ -1,0 +1,6 @@
+**********Portfolio Report**********
+Product~Quantity~MarketValue
+AAPL~10.0~1000.2709464846315
+AAPLPutOption~1.0~-1.1996626350054121E-15
+AAPLCallOption~-1.0~17.59674613141955
+TotalNAV:	1017.867692616051
